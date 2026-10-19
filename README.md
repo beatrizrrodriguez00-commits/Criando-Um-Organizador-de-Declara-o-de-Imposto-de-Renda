@@ -1,16 +1,18 @@
 # Criando-Um-Organizador-de-Declara-o-de-Imposto-de-Renda
-# Dashboard de Vendas do Xbox
+Funcionalidades
 
-## Sobre o projeto
-Este projeto foi desenvolvido no Excel com o objetivo de organizar e visualizar dados de vendas do Xbox por meio de um dashboard interativo.
+Dados do titular: organização dos dados pessoais do contribuinte.
 
-## Ferramentas utilizadas
-- Microsoft Excel
-- Tabelas e gráficos
-- Indicadores visuais
+Informes de rendimento bancários: registro dos bancos, valores atuais e identificação dos arquivos anexos.
 
-## Objetivo
-Facilitar a análise dos dados de vendas, permitindo visualizar as informações de forma organizada e identificar os principais resultados.
+Notas bancárias e extratos de holerites: registro das entradas financeiras, com data, categoria e valor.
 
-## Arquivo
-O repositório contém a planilha Excel com o dashboard desenvolvido.
+Lista de bancos: seleção de instituições financeiras disponíveis na planilha.
+
+Cálculo automático: soma dos valores informados nos campos de rendimentos bancários.
+Ferramentas utilizadas
+Fórmulas para automatizar cálculos
+Listas suspensas para facilitar o preenchimento
+
+Organização de dados em planilhas
+A planilha funciona como uma ferramenta de organização de informações. Os dados utilizados devem ser conferidos antes de serem usados na declaração oficial do Imposto de Renda.
